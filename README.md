@@ -81,7 +81,7 @@ How to turn your work into a deliverable
         - requirements.txt
         - README.md
         - LICENSE.txt
-        - <your-package>/
+        - your_package/
         - main.py/main.sh
 
  - setup.py
@@ -101,7 +101,7 @@ How to turn your work into a deliverable
         - MIT
         - Apache
 
-- <your-package>/
+- your-package/
  - This is where you will put all of your code
  - Should contain the file `__init__.py`
 
